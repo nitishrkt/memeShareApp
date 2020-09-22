@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MemeShareApp</string>
+    <string name="name">Name</string>
+    <string name="birthday_greet">Birthday Greet</string>
+    <string name="send_greet">Send Greet</string>
+    <string name="greet_name">greet Name</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+</resources>
